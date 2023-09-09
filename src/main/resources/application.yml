@@ -1,0 +1,7 @@
+mqtt:
+  uri: tcp://localhost:1883
+  username: mole
+  password: coding
+  topic:
+    sub: nobs
+    pub: nobs
